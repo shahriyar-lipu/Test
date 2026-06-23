@@ -1,1 +1,2 @@
-This is the first Line and First Commit.
+This is the first Line and 1st Commit.
+This is the second Line and 2nd Commit.
